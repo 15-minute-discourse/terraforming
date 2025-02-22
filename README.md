@@ -19,6 +19,25 @@ Is terraforming science fiction or the key to humanity's future in space?  *Find
 
 ---
 
+- [Could We Terraform Mars? The Future of Humanity in Space](#could-we-terraform-mars-the-future-of-humanity-in-space)
+  - [Terraforming Ethics: Uncharted Territories](#terraforming-ethics-uncharted-territories)
+  - [Terraforming Mars: Ethical and Scientific Considerations](#terraforming-mars-ethical-and-scientific-considerations)
+  - [Terraforming Mars: Ethical Considerations and Sustainable Practices](#terraforming-mars-ethical-considerations-and-sustainable-practices)
+  - [Terraforming Mars: Ethical and Scientific Considerations](#terraforming-mars-ethical-and-scientific-considerations-1)
+  - [The Ethics and Implications of Terraforming Mars](#the-ethics-and-implications-of-terraforming-mars)
+  - [Terraforming: Hopes and Dreams for Humanity](#terraforming-hopes-and-dreams-for-humanity)
+  - [Terraforming: Bravery and Fear](#terraforming-bravery-and-fear)
+  - [Terraforming: A Feasibility Analysis](#terraforming-a-feasibility-analysis)
+  - [Terraforming: Arguments For and Against](#terraforming-arguments-for-and-against)
+  - [Terraforming: A Multifaceted Approach](#terraforming-a-multifaceted-approach)
+  - [Terraforming: Stakeholders and Feasibility](#terraforming-stakeholders-and-feasibility)
+  - [Terraforming: Promise and Peril](#terraforming-promise-and-peril)
+  - [Terraforming: A Comprehensive Guide](#terraforming-a-comprehensive-guide)
+  - [Terraforming: A Comprehensive Guide](#terraforming-a-comprehensive-guide-1)
+
+
+---
+
 ## Terraforming Ethics: Uncharted Territories
 
 This discussion has explored many facets of the ethics of terraforming, but there are a few areas that could be further examined:
